@@ -121,4 +121,4 @@ On this page are some useful tools for software development and hacking. Fell fr
 - [Open Project](https://www.openproject.org/)
 
 ## Documentation
-- [Docusaurus] (https://docusaurus.io/)
+- [Docusaurus](https://docusaurus.io/)
