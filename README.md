@@ -122,3 +122,6 @@ On this page are some useful tools for software development and hacking. Fell fr
 
 ## Documentation
 - [Docusaurus](https://docusaurus.io/)
+
+## Reference indices
+- [TIOBE-Index](https://www.tiobe.com/tiobe-index/)
