@@ -3,11 +3,12 @@
 On this page are some useful tools for software development and hacking. Fell free to add some useful stuff to this list, to help new devs getting started. The usage of some tools may be prohibited by law, please check if you can use these tools BEFORE you use them.
 
 ## Programming langues
-- The C Programming Language
 - [Cpp](https://en.cppreference.com/w/)
 - [Java](https://www.java.com)
 - [Python](https://www.python.org/)
 - [Julia](https://julialang.org/)
+- [Rust](https://rust-lang.org/)
+- [Rust packages](https://crates.io/)
 
 ## IDEs
 - [Visual Studio](https://visualstudio.microsoft.com/)
@@ -26,13 +27,15 @@ On this page are some useful tools for software development and hacking. Fell fr
 - [Ubuntu](https://ubuntu.com/) linux with desktop
 - [Mint](https://linuxmint.com/) linux with desktop
 - [Debian](https://www.debian.org/) mostly used in servers
+- [True NAS](https://www.truenas.com/) a ready to use NAS-OS
 
 ## Algoritms and datastructs
 - [the Algorithms](https://the-algorithms.com) a website with lots of algorithms
 
-## Software design pattern
+## Software design 
 - [hillside](https://hillside.net/) a intersting starting point for design patterns (not only software design patterns)
 - [europlop](https://www.europlop.net/) the website of the eurpean design pattern conference, where new patterns are developed.
+- [Refactoring Guru](https://refactoring.guru/) interesting for design pattern and refactoring. 
 
 
 ## Web development
@@ -43,6 +46,7 @@ On this page are some useful tools for software development and hacking. Fell fr
 - [TensorFlow](https://www.tensorflow.org/)
 - [Keras](https://keras.io/)
 - [Pytorch](https://pytorch.org/)
+- [HuggingFace](https://huggingface.co/) a github like thing for ai-models and training sets
 
 ## SQL Server
 - [Postgresql](https://www.postgresql.org/)
@@ -111,8 +115,9 @@ On this page are some useful tools for software development and hacking. Fell fr
 ## Virtual Boxes
 - [Windows development environment](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
 
-## Icons 
+## Design 
 - [Free icon library](https://freeicons.io/)
+- [Inkspace Design Editor](https://inkscape.org)
 
 ## Containers
 - [Dockerhub](https://hub.docker.com/)
@@ -121,7 +126,8 @@ On this page are some useful tools for software development and hacking. Fell fr
 - [Open Project](https://www.openproject.org/)
 
 ## Documentation
-- [Docusaurus](https://docusaurus.io/)
+- [Docusaurus](https://docusaurus.io/) a framework for hosting documentation.
+- [Obsidian](https://obsidian.md/) a mondern markdown editor.
 
 ## Reference indices
 - [TIOBE-Index](https://www.tiobe.com/tiobe-index/)
